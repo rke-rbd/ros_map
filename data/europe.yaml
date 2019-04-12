@@ -448,3 +448,10 @@
    lat: 50.865348
    long: 4.668832
    link: https://www.pickit3d.com/
+ - name: Rubedo sistemos
+   type: company
+   description: WE MAKE ROBOTS BEHAVE
+   address: K. Baršausko g. 59b, 51423 Kaunas, Lithuania
+   lat: 54.900213
+   long: 23.961093
+   link: http://www.rubedos.com/
